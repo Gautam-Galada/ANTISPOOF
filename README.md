@@ -13,5 +13,8 @@ Image Input  - 160 X 160, Dropout = 0.55, Training Cycles = 25, Learning Rate = 
 Validation Accuracy  - 99.4%,
 Validation Loss - 0.19%
 
+Model Arch
 
+
+![ei-spoof-v1-transfer-learning-tensorflow-lite-int8-quantized-model lite](https://user-images.githubusercontent.com/65299277/180593584-51938e1a-4320-4d05-a931-413620c3b24c.png)
 
