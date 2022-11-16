@@ -1,4 +1,4 @@
-# spoof-v1
+# MOBILENET - ANTI SPOOF
 the following model is based on transfer learning -  mobile net v2
 
 Colab link - https://colab.research.google.com/drive/16NOxLV5PlPDKRvDGN34YKWIfhvWs9QSP?usp=sharing
